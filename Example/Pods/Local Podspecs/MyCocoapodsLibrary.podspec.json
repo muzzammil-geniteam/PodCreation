@@ -1,0 +1,27 @@
+{
+  "name": "MyCocoapodsLibrary",
+  "version": "0.1.0",
+  "summary": "A short description of MyCocoapodsLibrary.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/568329/MyCocoapodsLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "568329": "muzzammilseikh1@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/568329/MyCocoapodsLibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "MyCocoapodsLibrary/Classes/**/*",
+  "resource_bundles": {
+    "Resources": [
+      "MyCocoapodsLibrary/Assets/Trash.png"
+    ]
+  }
+}
